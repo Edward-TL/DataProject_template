@@ -1,0 +1,1 @@
+from load.to_sql import insert_many_from
