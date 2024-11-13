@@ -1,0 +1,16 @@
+gspread==3.4.2
+pymysql==1.1.0
+SQLAlchemy==2.0.23
+Flask-SQLAlchemy
+tqdm==4.66.1
+xlsxwriter==3.1.9
+dash
+mysql-connector-python
+psycopg2
+pyairtable
+pyarrow==15.0.0
+python-dotenv
+openpyxl
+pandas
+ruff
+xlsxwriter
